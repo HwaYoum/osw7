@@ -36,3 +36,5 @@
 * git branch -D friend
 * git branch -D music
 * git branch -D ice-cream
+
+### 6.
